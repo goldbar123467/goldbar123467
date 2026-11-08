@@ -81,7 +81,6 @@ I have entered 20 Kaggle competitions. Final leaderboard placements:
 | Predicting Student Health Risk | Playground Series S6E7 | 1,343 / 3,355 | 40.0% |
 | Predicting F1 Pit Stops | Playground Series S6E5 | 1,324 / 3,022 | 43.8% |
 | Predicting Stellar Class | Playground Series S6E6 | 1,251 / 2,816 | 44.4% |
-| Autonomous Agent Prediction (Beta) | Playground | 562 / 570 | 98.6% |
 
 ## Elsewhere
 
