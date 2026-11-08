@@ -87,13 +87,6 @@ I have entered 20 Kaggle competitions. Final leaderboard placements:
 | Predicting Stellar Class | Playground Series S6E6 | 1,251 / 2,816 | 44.4% |
 | Autonomous Agent Prediction (Beta) | Playground | 562 / 570 | 98.6% |
 
-## Current questions
-
-- How can PPO self-play systems become more sample-efficient and compute-efficient?
-- Which environment operations belong on the GPU, and when do custom CUDA kernels justify their complexity?
-- How should evaluations separate base-model capability from scaffolding, tools, and judges?
-- How can research-grade AI systems become meaningful computer science learning experiences?
-
 ## Teaching
 
 I use games, simulation, robotics, reinforcement learning, and local AI systems to make abstract ideas visible and testable for students.
