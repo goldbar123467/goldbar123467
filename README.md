@@ -55,7 +55,7 @@ A browser-based ARC task viewer and visual ONNX graph editor. Human solvers and 
 
 ## Kaggle
 
-I have entered 20 Kaggle competitions. Final leaderboard placements:
+Final leaderboard placements from 15 Kaggle competitions:
 
 ### Research, featured, and simulation competitions
 
