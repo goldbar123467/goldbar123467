@@ -2,13 +2,9 @@
 
 **Computer Science & Robotics teacher · CS master's student at Ball State University · ML systems builder**
 
-Hello! I am a Computer Science and Robotics teacher at an elementary/middle school in the United States. My main goal as a teacher is to instill in my students the love and passion for computer science that I have. Outside of the classroom, I am working on my Master's in Computer Science at Ball State University. In my free time I enjoy competing in Kaggle competitions and working on independent machine learning projects. Below you will find some of my research papers and projects, along with my other work.
-
 ## About me
 
-I build measurable AI systems: reinforcement-learning agents, benchmark harnesses, simulation tooling, and GPU-backed ML workflows. I care about reproducible runs, honest baselines, and artifacts that other people can test.
-
-My research direction is high-performance reinforcement learning at the algorithm-systems boundary: PPO-family methods, self-play, GPU-efficient environments, and CUDA optimization.
+Hello! I am a Computer Science and Robotics teacher at an elementary/middle school in the United States. My main goal as a teacher is to instill in my students the love and passion for computer science that I have. Outside of the classroom, I am working on my Master's in Computer Science at Ball State University. In my free time I enjoy competing in Kaggle competitions and working on independent machine learning projects. Below you will find some of my research papers and projects, along with my other work.
 
 ## Research
 
@@ -86,14 +82,6 @@ I have entered 20 Kaggle competitions. Final leaderboard placements:
 | Predicting F1 Pit Stops | Playground Series S6E5 | 1,324 / 3,022 | 43.8% |
 | Predicting Stellar Class | Playground Series S6E6 | 1,251 / 2,816 | 44.4% |
 | Autonomous Agent Prediction (Beta) | Playground | 562 / 570 | 98.6% |
-
-## Teaching
-
-I use games, simulation, robotics, reinforcement learning, and local AI systems to make abstract ideas visible and testable for students.
-
-## Technical areas
-
-Python · PyTorch · CUDA workflows · C/C++ · ONNX · FastAPI · React/TypeScript · Linux/WSL2 · Kaggle · Weights & Biases
 
 ## Elsewhere
 
