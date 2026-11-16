@@ -16,7 +16,7 @@ An end-to-end PPO self-play system for American checkers, covering the rules eng
 - **50,331,648** training transitions on an RTX 5070
 - Selected checkpoint: **354 wins, 70 draws, 8 losses** against the project's Minimax-2 baseline across 432 color-balanced games (score 0.9005, approximate 95% interval 0.869–0.925)
 - Minimax-2 is a deterministic depth-two search with a material-count evaluation (`men + 2 × kings`). It is a shallow internal baseline, so this result shows training progress and is not a rating of playing strength.
-- [Play the trained policy](https://checkers.upsidedownatlas.com)
+- [Play the trained policy](https://ppo-checkers.vercel.app/)
 
 ### [NeuroGolf Lab](https://github.com/goldbar123467/GolfWebGUI)
 
