@@ -22,6 +22,17 @@ An end-to-end PPO self-play system for American checkers, covering the rules eng
 
 A browser-based ARC task viewer and visual ONNX graph editor, built for The 2026 NeuroGolf Championship on Kaggle. Human solvers and headless agents submit graphs through the same backend, which compiles each graph and validates it with ONNX Runtime against the task's training examples before anything is exported.
 
+### IMSAcraft
+
+A blocky, isometric action RPG that runs in the browser, with a server-authoritative online mode. Players fight through twelve dungeon missions, collect loot across five rarities, raise dragons, build one of nine subclasses on a skill tree, and play together on shared realms. The source repository is private, but the game is live and playable.
+
+- **TypeScript, Three.js and Vite** client; a **Node realm server** runs shared zones on the same simulation code as the browser and decides every drop, purchase and unlock, while **Supabase** holds accounts and saves
+- About **80,000 lines of TypeScript** and **139 test files**; GitHub Actions builds, tests and deploys every push to a VPS behind a Cloudflare Tunnel
+- Online play on five realms of up to 10 players, co-op Endless Rift runs, and a 5v5 PvP Arena
+- No asset files: every texture, model, icon and sound is generated in code
+- Built for school Chromebooks, phones and tablets, with keyboard, gamepad and touch controls
+- [Play IMSAcraft](https://upsidedownatlas.com/)
+
 ## Research
 
 Papers from my graduate coursework in computer science at Ball State University.
